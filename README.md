@@ -69,12 +69,19 @@ If everything is configured properly, you should be able to register and explore
 ## 📁 Project Structure
 
 myProject/
+
 ├── includes/
+
 │ └── db.php
+
 ├── index.php
+
 ├── register.php
+
 ├── login.php
+
 ├── ...other .php files
+
 └── Creating a database.pdf 
 
 
